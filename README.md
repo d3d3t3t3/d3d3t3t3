@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sheene Park.
+- 👋 Hi, I’m Shiene Park.
 - 👀 I’m interested in learning apps developement with Swift.
 - 🌱 I’m currently learning iOS app developement with Swift.
 - 💞️ I’m looking to collaborate on beginers like me.
